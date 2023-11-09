@@ -1,0 +1,23 @@
+header{
+    background-image: url(../images/pets.jpg);
+background-size: cover;
+background-position: center;
+
+    height: 75vh;
+}
+
+.bg-purple{
+    background-color: rgb(80, 0, 104);
+}
+
+.nav-link{
+    color: rgb(227, 175, 247) !important;
+}
+
+.navbar-brand{
+    color: rgb(206, 227, 247);
+}
+
+footer a{
+    color: rgb(80, 0, 104);
+}
